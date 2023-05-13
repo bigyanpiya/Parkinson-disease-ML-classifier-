@@ -1,0 +1,3 @@
+avg_fre,max_fre,min_fre,var_fre1,var_fre2,var_fre3,var_fre4,var_fre5,var_amp1,var_amp2,var_amp3,var_amp4,var_amp5,var_amp6,NHR,HNR,RPDE,DFA,spread1,spread2,D2,PPE,output,flag,username,timestamp
+12.32,32.324,324.2342,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,You may not have PD,,,2023-04-24 10:00:59.466307
+119.992,157.302,74.997,0.00784,7e-05,0.0037,0.00554,0.01109,0.04374,0.426,0.02182,0.0313,0.02971,0.06545,0.02211,21.033,0.414783,0.815285,-4.813031,0.266482,2.301442,2.301442,You may have PD.Plese consult doctor,,,2023-05-01 22:37:16.332577
